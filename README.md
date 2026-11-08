@@ -99,4 +99,4 @@ If you have run out of energy or time for your project, put a note at the top of
 Сборка: gcc calc.c -o calc
 Пример: echo "2 3" | ./calc  ->  sum = 5
 
-Версия: 1.0.1 - уточнено описание сборки
+Версия: 1.1 - добавлено умножение, уточнено описание сборки
